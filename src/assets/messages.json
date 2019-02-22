@@ -1,0 +1,34 @@
+{
+  "ja": {
+    "message": {
+      "profile": "プロフィール",
+      "name": "渡野 那間恵",
+      "univ": "慶應義塾大学　理工学部システムデザイン工学科　学部3年 (西研究室)",
+      "job": "職歴",
+      "jobs": [
+        {
+          "duration": "2018/ 7 - Now",
+          "at": "都内ITコンサルタント企業",
+          "as": "機械学習エンジニアのインターン"
+        }
+      ],
+      "skills": "スキル"
+    }
+  },
+  "en": {
+    "message": {
+      "profile": "Profile",
+      "name": "My Name",
+      "univ": "Keio University, Department of System Design Engineering, Bachelor 3rd, Nishi Hiroaki Group",
+      "job": "Work",
+      "jobs": [
+        {
+          "duration": "2018/7 - ",
+          "at": "System Consultant",
+          "as": "Internship as Machine Learning Engineer"
+        }
+      ],
+      "skills": "Skills"
+    }
+  }
+}
